@@ -1,4 +1,4 @@
 server:
-  ip: 1.21.3.4
+  ip: 189.21.3.4
   port: 8080
   credentials: true
